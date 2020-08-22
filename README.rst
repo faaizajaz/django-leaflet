@@ -1,4 +1,8 @@
 ==============
+Modified to fix marker icon path issue when serving static files with *django* and *whitenoise*. 
+==============
+
+==============
 Django Leaflet
 ==============
 
